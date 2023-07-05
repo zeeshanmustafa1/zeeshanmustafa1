@@ -1,10 +1,11 @@
+
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Zeeshan.<br>
-        Currently working as a full stack MERN dev.<br>
+        I'm Muhammad Zeeshan Mustafa.<br>
+        Currently working as a full stack MERN developer.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/itszeeshanmustafa/">
